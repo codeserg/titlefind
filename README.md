@@ -6,7 +6,9 @@
 # Требуются пакеты Python:
 
 pip install pdf2image
+
 pip install opencv-python
+
 pip install pytesseract
 
 # Для работы требуется установить программы:
